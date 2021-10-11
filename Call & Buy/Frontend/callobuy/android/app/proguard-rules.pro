@@ -1,0 +1,3 @@
+-dontwarn me.pushy.**
+-keep class me.pushy.** { *; }
+-keep class android.support.v4.app.** { *; }
